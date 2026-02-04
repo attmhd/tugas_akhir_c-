@@ -1,4 +1,4 @@
-#Tugas Akhir Mata Kuliah Dasar Pemrograman
+# Tugas Akhir Mata Kuliah Dasar Pemrograman
 
--Simple Laundry Apps
--Simple siMahasiswa Apps
+- Simple Laundry CLI
+- Simple siMahasiswa CLI
